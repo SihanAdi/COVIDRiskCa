@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00395D</color>
+    <color name="colorPrimaryDark">#00394D</color>
+    <color name="colorAccent">#00393D</color>
+    <color name="colorHead">#00395D</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="gary">#cccccc</color>
+    <color name="gb_gray">#f0f0f0</color>
+    <color name="colorHeadGray">#5aFE4A65</color>
+    <color name="text_press">#000000</color>
+    <color name="shopping_press">#F19321</color>
+    <color name="mid_blue">#BCE0FD</color>
+    <color name="touming">#00000000</color>
+    <color name="colorBlueDark">#1A3A68</color>
+
+</resources>
